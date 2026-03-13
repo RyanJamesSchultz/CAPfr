@@ -6,7 +6,7 @@ References:
             
             R. Schultz, F. Lanza, B. Dyer, D. Karvounis, R. Fiori, P. Shi, V. Ritz, L. Villiger, P. Meier, & S. Wiemer (2025)
             The bound growth of induced earthquakes could de-risk hydraulic fracturing
-            Communications Earth & Environment, xx, XXX.
+            Communications Earth & Environment, 6(995).
             doi: 10.1038/s43247-025-02881-2.
             
 
